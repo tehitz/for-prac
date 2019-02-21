@@ -1,0 +1,3 @@
+/home/santeri/CLionProjects/forloop-prac/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/santeri/CLionProjects/forloop-prac/cmake-build-debug/CMakeFiles/forloop_prac.dir
+/home/santeri/CLionProjects/forloop-prac/cmake-build-debug/CMakeFiles/edit_cache.dir
